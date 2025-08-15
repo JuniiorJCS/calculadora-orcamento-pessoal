@@ -20,7 +20,7 @@ markdown
 
 ```bash
 # Clone o repositório
-git clone https://github.com/esthevamnascimento/calculadora-orcamento-pessoal.git
+git clone https://github.com/juniiorjcs/calculadora-orcamento-pessoal.git
 cd calculadora-orcamento-pessoal
 
 # Instale as dependências (se necessário)
@@ -109,4 +109,4 @@ Envie PRs seguindo nosso guia de contribuição
 📄 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
-<div align="center"> <p>Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/esthevam-alvico-25518728b">Esthevam Alvico</a></p> </div> 
+<div align="center"> <p>Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/everaldo-junior-224a331b0/">Everaldo Junior</a></p> </div> 
